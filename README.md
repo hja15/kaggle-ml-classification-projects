@@ -12,42 +12,42 @@ Each project addresses a different classification problem while applying a consi
 ## Included Projects
 
 ### 1. Customer Churn Analysis *(Team Project — Team Lead)*
-**Notebook:** `customer_churn_classification.ipynb`
+**Notebook:** `Capstone-CustomerChurn.ipynb`
 
-Served as team lead for a customer churn classification project focused on identifying at-risk customers using supervised learning methods. Responsibilities included coordinating model development, organizing the evaluation strategy, and guiding metric selection to account for class imbalance.
+Served as team lead for a customer churn classification project focused on identifying at-risk customers using supervised learning methods. Responsibilities included coordinating model development, organizing the evaluation strategy, and guiding metric selection to account for class imbalance and business-relevant tradeoffs.
 
-Models were compared using metrics such as AUC–ROC and precision–recall to reflect business-relevant tradeoffs between false positives and false negatives.
-
----
-
-### 2. Breast Cancer Prediction
-**Notebook:** `breast_cancer_prediction.ipynb`
-
-Built and evaluated classification models to distinguish between benign and malignant cases using structured medical data. Emphasis was placed on model interpretability, feature relevance, and precision–recall tradeoffs in a healthcare context.
+Models were compared using metrics such as AUC–ROC and precision–recall to balance false positives and false negatives.
 
 ---
 
-### 3. Tumor Classification (Benign vs. Malignant)
-**Notebook:** `tumor_classification.ipynb`
+### 2. Income Classification
+**Notebook:** `IncomeClassification.ipynb`
 
-Applied multiple supervised learning models to a tumor classification dataset, comparing performance across accuracy, precision, recall, and F1-score. The project focused on balancing predictive performance with robustness across different model choices.
+Built classification models to predict income categories based on demographic and employment-related features. The project focused on preprocessing structured tabular data, handling categorical variables, and evaluating model performance using accuracy, precision, recall, and F1-score.
+
+---
+
+### 3. Breast Cancer Tumor Classification (Benign vs. Malignant)
+**Notebook:** `BreastCancerClassification.ipynb`
+
+Applied multiple supervised learning models to classify tumors as benign or malignant using medical diagnostic data. Emphasis was placed on selecting appropriate evaluation metrics (precision, recall, F1-score) and understanding tradeoffs between different model families in a healthcare context.
 
 ---
 
 ### 4. Forest Cover Type Prediction
-**Notebook:** `forest_cover_type_prediction.ipynb`
+**Notebook:** `ForestCoverTypePrediction.ipynb`
 
-Developed multi-class classification models to predict forest cover types based on cartographic variables. This project emphasized feature engineering, model comparison, and evaluation using accuracy and confusion matrices for multi-class settings.
+Developed multi-class classification models to predict forest cover types based on cartographic and environmental features. The project emphasized feature engineering, model comparison, and evaluation using accuracy and confusion matrices for multi-class classification.
 
 ---
 
 ## Models Implemented
 Across the projects, the following models were implemented and compared:
-- Logistic Regression
-- Perceptron
-- Decision Trees
-- Random Forest
-- Support Vector Machines (SVM)
+- Logistic Regression  
+- Perceptron  
+- Decision Trees  
+- Random Forest  
+- Support Vector Machines (SVM)  
 - K-Nearest Neighbors (KNN)
 
 ---
@@ -71,4 +71,4 @@ Model performance was evaluated using metrics appropriate to each problem domain
 ---
 
 ## Context
-These projects were completed as part of graduate-level coursework and Kaggle-based assignments, with an emphasis on reproducible analysis, responsible evaluation, and comparative modeling.
+These projects were completed as part of graduate-level coursework and Kaggle-based assignments, emphasizing reproducible analysis, comparative modeling, and responsible evaluation practices.
