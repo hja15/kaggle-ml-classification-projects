@@ -5,7 +5,7 @@ This repository contains a curated set of applied machine learning classificatio
 ---
 
 ## Project Overview
-Each project addresses a different classification problem while applying a consistent and reproducible machine learning workflow. The goal is to demonstrate breadth across datasets and modeling techniques, as well as sound evaluation practices rather than leaderboard optimization.
+Each project addresses a different classification problem while applying a consistent and reproducible machine learning workflow. The goal is to demonstrate breadth across datasets and modeling techniques, as well as sound evaluation practices.
 
 ---
 
