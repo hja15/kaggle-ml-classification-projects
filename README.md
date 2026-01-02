@@ -11,7 +11,7 @@ Each project addresses a different classification problem while applying a consi
 
 ## Included Projects
 
-### 1. Customer Churn Analysis *(Team Project — Team Lead)*
+### 1. Customer Churn Analysis *(Team Project, Team Lead)*
 **Notebook:** `Capstone-CustomerChurn.ipynb`
 
 Served as team lead for a customer churn classification project focused on identifying at-risk customers using supervised learning methods. Responsibilities included coordinating model development, organizing the evaluation strategy, and guiding metric selection to account for class imbalance and business-relevant tradeoffs.
