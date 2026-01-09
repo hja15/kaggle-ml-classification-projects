@@ -16,24 +16,28 @@ Each project addresses a different classification problem while applying a consi
 Served as team lead for a customer churn classification project focused on identifying at-risk customers using supervised learning methods. Responsibilities included coordinating model development, organizing the evaluation strategy, and guiding metric selection to account for class imbalance and business-relevant tradeoffs.
 
 Models were compared using metrics such as AUC–ROC and precision–recall to balance false positives and false negatives.
+[View Notebook](FILE_URL)
 
 ---
 
 ### 2. Income Classification
 
 Built classification models to predict income categories based on demographic and employment-related features. The project focused on preprocessing structured tabular data, handling categorical variables, and evaluating model performance using accuracy, precision, recall, and F1-score.
+[View Notebook](FILE_URL)
 
 ---
 
 ### 3. Breast Cancer Tumor Classification (Benign vs. Malignant)
 
 Applied multiple supervised learning models to classify tumors as benign or malignant using medical diagnostic data. Emphasis was placed on selecting appropriate evaluation metrics (precision, recall, F1-score) and understanding tradeoffs between different model families in a healthcare context.
+[View Notebook](FILE_URL)
 
 ---
 
 ### 4. Forest Cover Type Prediction
 
 Developed multi-class classification models to predict forest cover types based on cartographic and environmental features. The project emphasized feature engineering, model comparison, and evaluation using accuracy and confusion matrices for multi-class classification.
+[View Notebook](FILE_URL)
 
 ---
 
