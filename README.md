@@ -24,7 +24,8 @@ Models were compared using metrics such as AUC–ROC and precision–recall to b
 ### 2. Income Classification
 
 Built classification models to predict income categories based on demographic and employment-related features. The project focused on preprocessing structured tabular data, handling categorical variables, and evaluating model performance using accuracy, precision, recall, and F1-score.
-[View Notebook](FILE_URL)
+<br/>
+[View Notebook](https://github.com/hja15/kaggle-ml-classification-projects/blob/main/IncomeClassification.ipynb)
 
 ---
 
