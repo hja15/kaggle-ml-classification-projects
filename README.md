@@ -40,7 +40,8 @@ Applied multiple supervised learning models to classify tumors as benign or mali
 ### 4. Forest Cover Type Prediction
 
 Developed multi-class classification models to predict forest cover types based on cartographic and environmental features. The project emphasized feature engineering, model comparison, and evaluation using accuracy and confusion matrices for multi-class classification.
-[View Notebook](FILE_URL)
+<br/>
+[View Notebook](https://github.com/hja15/kaggle-ml-classification-projects/blob/main/ForestCoverTypePrediction.ipynb)
 
 ---
 
