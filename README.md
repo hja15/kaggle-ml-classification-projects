@@ -16,6 +16,7 @@ Each project addresses a different classification problem while applying a consi
 Served as team lead for a customer churn classification project focused on identifying at-risk customers using supervised learning methods. Responsibilities included coordinating model development, organizing the evaluation strategy, and guiding metric selection to account for class imbalance and business-relevant tradeoffs.
 
 Models were compared using metrics such as AUC–ROC and precision–recall to balance false positives and false negatives.
+<br/>
 [View Notebook](https://github.com/hja15/kaggle-ml-classification-projects/blob/main/Capstone-CustomerChurn.ipynb)
 
 ---
