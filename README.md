@@ -30,7 +30,8 @@ Built classification models to predict income categories based on demographic an
 ### 3. Breast Cancer Tumor Classification (Benign vs. Malignant)
 
 Applied multiple supervised learning models to classify tumors as benign or malignant using medical diagnostic data. Emphasis was placed on selecting appropriate evaluation metrics (precision, recall, F1-score) and understanding tradeoffs between different model families in a healthcare context.
-[View Notebook](FILE_URL)
+<br/>
+[View Notebook](https://github.com/hja15/kaggle-ml-classification-projects/blob/main/BreastCancerClassification.ipynb)
 
 ---
 
